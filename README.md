@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">I'm a passionate java/c# coder</h3>
+<h3 align="center">I'm a passionate java coder</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
